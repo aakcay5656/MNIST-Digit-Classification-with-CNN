@@ -17,14 +17,10 @@ This repository contains a PyTorch implementation of a Convolutional Neural Netw
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/mnist-cnn.git
+   git clone https://github.com/aakcay5656/mnist-cnn.git
    cd mnist-cnn
    ```
 
-2. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
