@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun May 19 03:01:13 2024
 
-@author: Abdullah
-"""
 
 from torchvision import datasets
 from torchvision.transforms import ToTensor
